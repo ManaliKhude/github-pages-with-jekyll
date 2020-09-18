@@ -1,7 +1,8 @@
+-----
 title: "Manalis Blog"
 
 date: 2020-09-18
-title: Here Comes the Fun Begins
+title: "Here Comes the Fun Begins"
 author: Manali Khude
 email: manali.khude@velocitycloud.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -15,3 +16,4 @@ github_username:  ManaliKhude # DO NOT include the @ character, or else the buil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---------
